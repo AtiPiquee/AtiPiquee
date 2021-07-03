@@ -4,6 +4,6 @@
 </p>
  
 -----
-<p align = "center"><strong>Contact<strong><br>
+<p align = "center"><strong>Contact<strong><br><br>
 <img src="https://discord.c99.nl/widget/theme-2/456142146299494402.png">
 </p>
