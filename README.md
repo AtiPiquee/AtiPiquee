@@ -1,7 +1,7 @@
                                                             
 -----
 <p align = "center">
-<img src="https://cdn.discordapp.com/attachments/860200259124461568/860958719445303316/Trigun-trigun-40398288-500-300.gif">
+<img src="https://media.tenor.co/videos/fb880ca3e9aaf1e391ca2015a68ec0b2/mp4">
 </p>
  
 -----
