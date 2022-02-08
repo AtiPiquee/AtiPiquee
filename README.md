@@ -6,7 +6,7 @@
  
 -----
 <p align = "center"><strong>Contact<strong><br><br>
-<img src="https://discord.c99.nl/widget/theme-3/456142146299494402.png">
+<img src="https://lanyard.cnrad.dev/api/456142146299494402">
 </p>
  
 ----- 
