@@ -1,7 +1,7 @@
                                                             
 -----
 <p align = "center">
-<img src="https://tenor.com/view/smoking-smoke-anime-boy-guy-gif-17324366">
+<img src="https://media.discordapp.net/attachments/811996894640472125/940755545994969088/anime-depressed.gif">
 </p>
  
 -----
