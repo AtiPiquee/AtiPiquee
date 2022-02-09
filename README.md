@@ -1,5 +1,4 @@
-                                                            
------
+
 <p align = "center">
 <img src="https://media.discordapp.net/attachments/811996894640472125/940755545994969088/anime-depressed.gif">
 </p>
