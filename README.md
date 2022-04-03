@@ -15,7 +15,7 @@
 
  <p align = "center"><strong>Neofetch<strong><br><br>
  ```md
-C:\Users\AtiPique_>neofetch
+AtiPique_> neofetch
                                  ..,   AtiPique_@DESKTOP-E9KU2FK
                      ....,,:;+ccllll   ---------------------
       ...,,+:;   cllllllllllllllllll   OS: Windows 10 Professionnel x86_64
