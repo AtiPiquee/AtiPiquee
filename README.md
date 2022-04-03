@@ -16,8 +16,8 @@
  <p align = "center"><strong>Neofetch<strong><br><br>
   
 ```md
-~ ➜ neofetch
-                                ..,   cyr-b@DESKTOP-E9KU2FK
+C:\Users\AtiPique_>neofetch
+                                ..,   AtiPique_@DESKTOP-E9KU2FK
                     ....,,:;+ccllll   ---------------------
       ...,,+:;  cllllllllllllllllll   OS: Windows 10 Professionnel x86_64
 ,cclllllllllll  lllllllllllllllllll   Host: Micro-Star International Co., Ltd. MS-7C52
