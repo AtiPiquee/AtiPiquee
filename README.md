@@ -14,7 +14,7 @@
 -----
 
  <p align = "center"><strong>Neofetch<strong><br><br>
- ```
+ ```md
 C:\Users\AtiPique_>neofetch
                                  ..,   AtiPique_@DESKTOP-E9KU2FK
                      ....,,:;+ccllll   ---------------------
