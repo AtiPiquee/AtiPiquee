@@ -32,8 +32,8 @@ llllllllllllll  lllllllllllllllllll   WM Theme: Custom
 llllllllllllll  lllllllllllllllllll   CPU: AMD Ryzen 3 2200G (4) @ 3.500GHz
 llllllllllllll  lllllllllllllllllll   GPU: Caption
 llllllllllllll  lllllllllllllllllll   GPU: NVIDIA GeForce GTX 1070
-`'ccllllllllll  lllllllllllllllllll   GPU
-       `' \*::  :ccllllllllllllllll   Memory: 7309MiB / 32716MiB
+`'ccllllllllll  lllllllllllllllllll   Memory: 7309MiB / 32716MiB
+       `' \*::  :ccllllllllllllllll   
                        ````''*::cll
                                  ``
 
