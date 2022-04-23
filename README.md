@@ -34,8 +34,6 @@ llllllllllllll  lllllllllllllllllll   GPU: Caption
 `'ccllllllllll  lllllllllllllllllll   GPU: NVIDIA GeForce GTX 1070 
        `' \*::  :ccllllllllllllllll   GPU 
                        ````''*::cll   Memory: 7072MiB / 32716MiB 
-                                 ``
-                                                                 
-                                                                 
+                                 ``                                                                                                                             
   ```
  
