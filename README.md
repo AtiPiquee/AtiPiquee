@@ -21,7 +21,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## Neofetch :
+## 🤖 Neofetch :
 <br>
   
 ```
