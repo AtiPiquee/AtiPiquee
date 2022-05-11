@@ -1,19 +1,28 @@
+## Hello There 👋
 
+<br>
 <p align = "center">
-<img src="https://media.discordapp.net/attachments/811996894640472125/940755545994969088/anime-depressed.gif">
-</p>
- 
------
-
-<p align = "center"><strong>Contact<strong><br><br>
   <a href="https://github.com:AtiPiquee">
     <img src="https://discord.c99.nl/widget/theme-2/456142146299494402.png">
   </a>
 </p>
- 
------
 
- <p align = "center"><strong>Neofetch<strong><br><br>
+## 💻 Languages and Tools :
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" alt="Windows10" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## Neofetch :
+<br>
   
 ```
                                 ..,   AtiPique_@DESKTOP-E9KU2FK 
@@ -36,4 +45,5 @@ llllllllllllll  lllllllllllllllllll   GPU: Caption
                        ````''*::cll   Memory: 7072MiB / 32716MiB 
                                  ``
   ```
+
  
