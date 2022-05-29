@@ -42,8 +42,8 @@ llllllllllllll  lllllllllllllllllll   Terminal: vscode
 llllllllllllll  lllllllllllllllllll   CPU: AMD Ryzen 3 2200G (4) @ 3.500GHz 
 llllllllllllll  lllllllllllllllllll   GPU: Caption 
 `'ccllllllllll  lllllllllllllllllll   GPU: NVIDIA GeForce GTX 1070 
-       `' \*::  :ccllllllllllllllll   GPU 
-                       ````''*::cll   Memory: 7072MiB / 32716MiB 
+       `' \*::  :ccllllllllllllllll   Memory: 7072MiB / 32716MiB
+                       ````''*::cll    
                                  ``
   ```
 
