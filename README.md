@@ -5,9 +5,7 @@
   <a href="https://github.com/AtiPiquee">
     <img src="https://discord.c99.nl/widget/theme-2/456142146299494402.png">
   </a>
-  <a href="atipiquee.github.io">
-    <h2 align = "center">🔗 Website</h2>
-  </a>
+    <h2 align = "center">🔗 Website : atipiquee.github.io</h2>
 </p>
 
 ## 💻 Languages and Tools :
