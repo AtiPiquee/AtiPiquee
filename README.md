@@ -2,9 +2,11 @@
 
 <br>
 <p align = "center">
-  <a href="https://github.com:AtiPiquee">
+  <a href="https://github.com/AtiPiquee">
     <img src="https://discord.c99.nl/widget/theme-2/456142146299494402.png">
-    <h2 align = "center"><a href="atipiquee.github.io">🔗 Website</a></h2>
+  </a>
+  <a href="atipiquee.github.io">
+    <h2 align = "center">🔗 Website</h2>
   </a>
 </p>
 
