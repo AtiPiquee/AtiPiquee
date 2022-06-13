@@ -4,7 +4,7 @@
 <p align = "center">
   <a href="https://github.com:AtiPiquee">
     <img src="https://discord.c99.nl/widget/theme-2/456142146299494402.png">
-    <h2><a href="atipique.tk">🔗 Website</a></h2>
+    <h2 align = "center"><a href="atipique.tk">🔗 Website</a></h2>
   </a>
 </p>
 
