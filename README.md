@@ -8,7 +8,7 @@
    
 </p>
 
-<h2 align="center"><a href="https://atipique.tk"> 🔗 https://atipique.tk</a></h2>
+<h2 align="center"><a href="http://atipique.tk" target="_blank"> 🔗 http://atipique.tk</a></h2>
 
 ## 💻 Languages and Tools :
 
