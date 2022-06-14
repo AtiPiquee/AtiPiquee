@@ -5,8 +5,10 @@
   <a href="https://github.com/AtiPiquee">
     <img src="https://discord.c99.nl/widget/theme-2/456142146299494402.png">
   </a>
-   [https://atipique.tk](🔗 Website)
+   
 </p>
+
+<h2 align="center"><a href="https://atipique.tk"> 🔗 https://atipique.tk</a></h2>
 
 ## 💻 Languages and Tools :
 
