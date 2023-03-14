@@ -1,14 +1,6 @@
 ## Hello There 👋
 
 <br>
-<p align = "center">
-  <a href="https://github.com/AtiPiquee">
-    <img src="https://discord.c99.nl/widget/theme-2/456142146299494402.png">
-  </a>
-   
-</p>
-
-<h2 align="center"><a href="http://atipique.tk" target="_blank"> 🔗 http://atipique.tk</a></h2>
 
 ## 💻 Languages and Tools :
 
