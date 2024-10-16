@@ -1,21 +1,23 @@
-## Hello There 👋
+## ⚠️ I moved to [gitlab.com](https://gitlab.com/AtiPique) ⚠️
 
-<br>
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8C74FF&width=435&lines=Hello+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## 💻 Languages and Tools :
+Hey ! I'm Atipique_ ! I like to program things for fun !
+
+- I'm currently working on [Todolist](https://gitlab.com/AtiPique/todolist)
+
+- I'm learning **Rust** and **Russian** and planning on learning **Esperento** because it's fun
+
+- You can reach me on **Discord : atipique_**
+
+### 💻 Languages and Tools :
 
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" alt="Windows10" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" style="vertical-align:top; margin:4px">
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,html,css,php,mysql,git,linux,arch,windows,vscodium,neovim,vim,bash&perline=8"/>
+  </a>
 </p>
+<br><br>
 
-
- 
+btw checkout [weem](https://gitlab.com/adamtherookie/weem) by my friend [Adam Salhi](https://gitlab.com/adamtherookie)
